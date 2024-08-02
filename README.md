@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-##Note : YoloV8 model in https://github.com/Govind-P/Traffic-model
+## Note : YoloV8 model in https://github.com/Govind-P/Traffic-model
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
